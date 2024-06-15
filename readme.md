@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+## Application Preview
+
+<img src="./images/may1.png" width="200"/>
+<img src="./images/may2.png" width="200"/>
+<img src="./images/may3.png" width="200"/>
+<img src="./images/may4.png" width="200"/>
+<img src="./images/may5.png" width="200"/>
+<img src="./images/may6.png" width="200"/>
+
+## Description
+1. virtual conference room designed in Unity & Xcode
+2. tested with meta quest 2
+
+
+
